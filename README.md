@@ -1,4 +1,4 @@
-# CNN Image Classification — AIT 636 Assignment 13(B)
+# CNN Image Classification 
 
 > Exploring how **CNN depth** and **image resolution** affect classification accuracy across two image datasets.
 
@@ -127,8 +127,3 @@ For each run the script produces:
 - Systematic **grid experiment** design across hyperparameter combinations
 
 ---
-
-## Author
-
-**Surthesh Velu Samy**  
-AIT 636 — Interpretable Machine Learning
