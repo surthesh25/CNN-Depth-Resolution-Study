@@ -17,10 +17,7 @@ venv/
 .ipynb_checkpoints/
 *.ipynb
 
-# Data — do NOT commit raw image datasets (they are large)
-data/cat-dog/
-data/vdd/
-*.zip
+
 
 # Outputs — generated at runtime
 outputs/**/*.png
