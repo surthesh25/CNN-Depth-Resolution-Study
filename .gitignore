@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.env
+.venv
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data — do NOT commit raw image datasets (they are large)
+data/cat-dog/
+data/vdd/
+*.zip
+
+# Outputs — generated at runtime
+outputs/**/*.png
+outputs/**/*.csv
+
+# Keep the outputs folder itself
+!outputs/.gitkeep
+
+# TensorFlow / Keras
+*.h5
+*.keras
+saved_model/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
