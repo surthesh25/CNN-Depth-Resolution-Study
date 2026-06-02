@@ -63,7 +63,6 @@ cnn-image-classification/
 │       └── test/
 │           ├── 0001/ … 0010/
 │
-├── outputs/                # Generated plots & CSVs (created at runtime)
 ├── requirements.txt
 ├── .gitignore
 └── README.md
